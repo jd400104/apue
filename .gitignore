@@ -18,7 +18,8 @@
 
 # Libraries
 *.lib
-*.a
+# libapue.a is needed
+#*.a
 *.la
 *.lo
 
